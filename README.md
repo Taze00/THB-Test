@@ -1,4 +1,4 @@
 # THB-Test
 Das ist ein Test Repository
-TestTestTest zum 2 mal
+Das ist die README zu dem Projekt
 
